@@ -3,9 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 .circular-image {
   border-radius: 50%;
-  /* Optional: You can add a fixed width and height to ensure a perfect circle */
-  width: 400px; /* Adjust the width as needed */
-  height: 400px; /* Adjust the height as needed */
+
 }
 
 * {
